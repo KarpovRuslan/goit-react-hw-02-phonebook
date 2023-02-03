@@ -33,7 +33,7 @@
 
 - :man_student:[**Front-end developer**: Sergii Karashchuk](https://github.com/SergiiKarashchuk)
 
-- :man_student:[**Front-end developer**: Iryna Herzhova](https://github.com/iragerj)
+- :woman_student:[**Front-end developer**: Iryna Herzhova](https://github.com/iragerj)
 
 - :man_student:[**Front-end developer**: Yevgenii Reznichenko](https://github.com/Eugene8615)
 
