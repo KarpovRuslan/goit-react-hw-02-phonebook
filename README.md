@@ -4,7 +4,6 @@
 
 Ми студенти группи під назвою **"Blackout Killers"** :rocket:
 <img src="https://i.ibb.co/pjMcq33/logo-group.png" alt="logo-group" border="0">
-https://ibb.co/chZ0qNN
 
 В цьому проекті закріплені знання по курсу **JavaScript** і завдяки цим знанням
 ций проект і був реалізован.
